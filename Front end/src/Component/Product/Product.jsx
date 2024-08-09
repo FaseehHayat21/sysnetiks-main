@@ -120,14 +120,14 @@ export default function Product() {
                 className="btn btn-secondary mx-1 tabs-button"
                 data-bs-dismiss="modal"
               >
-               SCENSORS
+               SENSORS
               </button>
              <button 
                 type="button"
                 className="btn btn-secondary mx-1 tabs-button"
                 data-bs-dismiss="modal"
               >
-               EOIR
+               EO/IR
               </button>
              <button 
                 type="button"

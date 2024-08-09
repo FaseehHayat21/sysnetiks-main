@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 
 import "./Business.css"
-import image from "../../assets/HomeImages/ctdl.png"
+import image from "../../assets/HomeImages/ad0.png"
 export default function Business() {
     const [activeIndex, setActiveIndex] = useState(null);
 
@@ -16,7 +16,7 @@ export default function Business() {
                 <div className="bu-img-1 ">
                   <img className='img-fluid bu-img' src={image} alt="" />
                 </div>
-                <div className="accordion" id="accordionExample">
+                <div className="accordion bus-acc" id="accordionExample">
                     <h3 className='accord-text cssanimation effect3d'>Accelerate Buiness growth</h3>
                     
                   <div className="accordion-item">

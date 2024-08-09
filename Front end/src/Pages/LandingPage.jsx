@@ -25,15 +25,16 @@ export default function LandingPage() {
      <div id="showcase">
      <Showcase/>
      </div>
+     <div id="service">
+     <Services/>
+     </div>
      <div id="about">
      <About/>
      </div>
      <div id="intro">
      <Intro/>
      </div>
-     <div id="service">
-     <Services/>
-     </div>
+   
      <div id="service">
       <Quality/>
      </div>
