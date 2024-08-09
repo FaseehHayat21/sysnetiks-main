@@ -22,28 +22,28 @@ export default function Carousel() {
     <div class="carousel-item active" data-bs-interval="1200">
     <img src={c1} class="d-block w-100 h-screen img-fluid" alt="..."/>
       <div class="carousel-caption">
-          <h1 className='c1-heading'>Sysnatiks</h1>
+          <h1 className='c1-heading'>Sysnetiks</h1>
           <p>Crafting Electronic Excellence through Systematic and Naticks Integration</p>
         </div>
     </div>
     <div class="carousel-item" data-bs-interval="1200">
     <img src={c2} class="d-block w-100 h-screen img-fluid" alt="..."/>
       <div class="carousel-caption">
-      <h1 className='c1-heading'>Sysnatiks</h1>
+      <h1 className='c1-heading'>Sysnetiks</h1>
       <p>Crafting Electronic Excellence through Systematic and Naticks Integration</p>
         </div>
     </div>
     <div class="carousel-item" data-bs-interval="1200"> 
     <img src={c3} class="d-block w-100 h-screen img-fluid" alt="..."/>
       <div class="carousel-caption">
-      <h1 className='c1-heading'>Sysnatiks</h1>
+      <h1 className='c1-heading'>Sysnetiks</h1>
       <p>Crafting Electronic Excellence through Systematic and Naticks Integration</p>
         </div>        
     </div>
     <div class="carousel-item" data-bs-interval="1200">
     <img src={c4} class="d-block w-100 h-screen img-fluid" alt="..."/>
       <div class="carousel-caption">
-      <h1 className='c1-heading'>Sysnatiks</h1>
+      <h1 className='c1-heading'>Sysnetiks</h1>
       <p>Crafting Electronic Excellence through Systematic and Naticks Integration</p>
         </div>        
     </div>

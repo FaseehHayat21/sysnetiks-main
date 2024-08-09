@@ -11,7 +11,11 @@ export default function Business() {
   
   return (
     <div className="business-page">
-       
+
+
+                <div className="bu-img-1 ">
+                  <img className='img-fluid bu-img' src={image} alt="" />
+                </div>
                 <div className="accordion" id="accordionExample">
                     <h3 className='accord-text cssanimation effect3d'>Accelerate Buiness growth</h3>
                     
@@ -75,7 +79,7 @@ export default function Business() {
                   </div>
                 </div>
               </div>
-            </div>
+                </div>
     
     
    

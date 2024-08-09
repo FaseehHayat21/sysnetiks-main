@@ -6,6 +6,37 @@
     flex-direction: column;
    
 }
+
+.tabs{
+  display: flex;
+  flex: wrap;
+}
+.tabs-button{
+  background-color: #edf8fe;
+  color: black;
+  font-weight: bolder;
+}
+.active{
+  background-color: #313131;
+}
+.detail-box{
+  width: 130%;
+}
+.detail-box-1{
+  display: flex;
+
+}
+.modal-image{
+  width: 35vh;
+  height: 35vh;
+  margin-right: 3vh;
+  margin-top: 3.5vh;
+}
+.modal-info{
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
 .prod{
     display: flex;
     align-items: center;
@@ -27,6 +58,7 @@
     justify-content: center;
     color: white;
     transition: 0.2s ease-in-out;
+    border-radius: 20px;
   }
   
   .pimage {
